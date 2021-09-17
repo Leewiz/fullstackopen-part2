@@ -1,0 +1,28 @@
+.success {
+  visibility: visible;
+  display: inline-block;
+  color: green;
+  background: light-grey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.error {
+  visibility: visible;
+  display: inline-block;
+  color: red;
+  background: light-grey;
+  font-size: 20px;
+  border-style: solid;
+  border-radius: 5px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.none {
+  visibility: hidden;
+  display: none;
+}
